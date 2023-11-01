@@ -8,6 +8,7 @@ namespace Convert
 {
     public partial class Form1 : Form
     {
+        //Declaración de variables
 
         string rutaArchivo;
         string rutaArchivoMapeo;
